@@ -36,4 +36,3 @@ Windows 本地工具，用于保存并快速恢复 **NVIDIA App 颜色设置、�
 ## 测试参数
 
 `--no-system-changes` 会跳过开机启动项写入，供隔离测试使用。
-
